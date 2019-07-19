@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![Travis build
+status](https://travis-ci.org/maurolepore/flagr.svg?branch=master)](https://travis-ci.org/maurolepore/flagr)
 <!-- badges: end -->
 
 The goal of flagr is to …
